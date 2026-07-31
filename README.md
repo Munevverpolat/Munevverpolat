@@ -25,7 +25,7 @@ I enjoy building practical projects and exploring how software works—from back
 ## 📬 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/m%C3%BCnevver-polat-7b229b32a/">
+  <a href="https://www.linkedin.com/in/m%C3%BCnevver-polat/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
